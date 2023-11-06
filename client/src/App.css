@@ -1,0 +1,14 @@
+.App {
+    display: flex;
+  }
+  
+ .one {
+    width: 40%;
+    background-color: #f0f0f0; /* Optional: Add some styling to Component1 */
+  }
+  
+  .two {
+    width: 60%;
+    background-color: #e0e0e0; /* Optional: Add some styling to Component2 */
+  }
+  
